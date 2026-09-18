@@ -1,0 +1,20 @@
+# EduPredict AI Submission Checklist
+- [x] Problem statement and objectives
+- [x] Functional requirements
+- [x] Non-functional requirements
+- [x] System architecture
+- [x] Workflow
+- [x] Use Case Diagram
+- [x] Class/Component Diagram
+- [x] Sequence Diagram
+- [x] ER Diagram
+- [x] Dataset description
+- [x] Model methodology and evaluation
+- [x] Modular source code
+- [x] README.md
+- [x] statement.md
+- [x] Automated tests
+- [x] Application screenshots
+- [x] Final PDF report
+- [ ] Push final artefacts to GitHub
+- [ ] Upload final PDF to VITyarthi
